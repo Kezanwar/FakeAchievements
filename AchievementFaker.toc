@@ -1,0 +1,8 @@
+## Interface: 11503
+## Title: Achievement Faker
+## Notes: Generate fake achievements for fun!
+## Author: Kez
+## Version: 1.0
+## SavedVariables: AchievementFakerDB
+
+AchievementFaker.lua
